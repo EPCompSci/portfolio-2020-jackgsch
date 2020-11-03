@@ -14,7 +14,7 @@ I furthered my learning by combining learning from different tutorials into my o
 
 The third step in my learning was to make an entire app from the ground up. No tutorials involved. What I chose to make was a cookie clicker app. Every time you click the cookie your score goes up. I implemented ideas from the card game app, as well as some of the basics from the Gale Woods app too. I finished this app with an app icon and downloaded it on my phone.
 
-3rd App: ButtonClicker
+3rd App: ButtonGame
 
 I am currently on the fourth and fifth step of my learning, where I use what I know and I reasearch what I do not know. I also am collaborating with others and all of our skills are being utilized. An important part in this app was and still is learning how to use GitHub. With some previous exposure in Java in Spring 2019, it is not a completely foreign idea, but it has taken some time to remember everything about GitHub. The app uses an API to connect to Schoology, our schools main online platform for teacher-student connection. Students are able to connect with teachers and see assignments on their phone. More features are outlined and will hopefully be implemented soon!
 
