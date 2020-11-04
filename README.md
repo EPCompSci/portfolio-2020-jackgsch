@@ -4,11 +4,11 @@
 
 I have learned an immense amount about swift this first term. Starting with no background in swift to now working with a whole team on a large scaleable app. 
 
-I first started by watching some tutorials on youtube and from Apple's own tutorials, I also read from some forums online. My first app was a google map view of Gale Woods with a picture of myself and some different text fields. This is one of Apple's begginer tutorials where I used my own images and different coordinates than the tutorials.
+I first started by watching some tutorials on youtube and Apple's own tutorials, I also read some forums online. My first app was a google map view of Gale Woods with a picture of myself and some different text fields. This is one of Apple's begginer tutorials where I used my own images and different coordinates than the tutorials.
 
 1st App: https://github.com/jackgsch/GaleWoods/tree/main
 
-I furthered my learning by combining learning from different tutorials into my own customized app. My next app was the customization of a tutorial I followed. I followed the tutorial and made the card game 'war'. I then added some different text fields, modified the looks of the app. A big item I learned was when I made an app icon for it. When downloaded the app would have a cool image.
+I furthered my learning by combining learning from different tutorials into a tutorial I watched. I followed the tutorial and made the card game 'war'. I then added some different text fields and modified the formating of the app. A big thing I learned was when I made an app icon for it. Using sketch I was able to make an image for the app on your home screen.
 
 2nd App: https://github.com/jackgsch/WarCardGame1/tree/main
 
