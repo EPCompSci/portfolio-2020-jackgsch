@@ -6,7 +6,7 @@ I have learned an immense amount about swift this first term. Starting with no b
 
 I first started by watching some tutorials on youtube and from Apple's own tutorials, I also read from some forums online. My first app was a google map view of Gale Woods with a picture of myself and some different text fields. This is one of Apple's begginer tutorials where I used my own images and different coordinates than the tutorials.
 
-1st App: Gale Woods
+1st App: https://github.com/jackgsch/GaleWoods/tree/main
 
 I furthered my learning by combining learning from different tutorials into my own customized app. My next app was the customization of a tutorial I followed. I followed the tutorial and made the card game 'war'. I then added some different text fields, modified the looks of the app. A big item I learned was when I made an app icon for it. When downloaded the app would have a cool image.
 
