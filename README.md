@@ -10,7 +10,7 @@ I first started by watching some tutorials on youtube and from Apple's own tutor
 
 I furthered my learning by combining learning from different tutorials into my own customized app. My next app was the customization of a tutorial I followed. I followed the tutorial and made the card game 'war'. I then added some different text fields, modified the looks of the app. A big item I learned was when I made an app icon for it. When downloaded the app would have a cool image.
 
-2nd App: WarCardGame
+2nd App: https://github.com/jackgsch/WarCardGame1/tree/main
 
 The third step in my learning was to make an entire app from the ground up. No tutorials involved. What I chose to make was a cookie clicker app. Every time you click the cookie your score goes up. I implemented ideas from the card game app, as well as some of the basics from the Gale Woods app too. I finished this app with an app icon and downloaded it on my phone.
 
