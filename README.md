@@ -2,7 +2,7 @@
 
 2020-2021 Portfolio
 
-I have learned an immense amount about swift this first term. Starting with no background in swift to now working with a whole team on a large scaleable app. 
+Since the begining of the year, I have developed a large skill set within Swift. Listed below is a timeline of my projects, start to finihs, with links to each repository. 
 
 I first started by watching some tutorials on youtube and Apple's own tutorials, I also read some forums online. My first app was a google map view of Gale Woods with a picture of myself and some different text fields. This is one of Apple's begginer tutorials where I used my own images and different coordinates than the tutorials.
 
@@ -16,6 +16,8 @@ The third step in my learning was to make an entire app from the ground up. No t
 
 3rd App: https://github.com/jackgsch/CookieClicker/tree/main
 
-I am currently on the fourth and fifth step of my learning, where I use what I know and I reasearch what I do not know. I also am collaborating with others and all of our skills are being utilized. An important part in this app was and still is learning how to use GitHub. With some previous exposure in Java in Spring 2019, it is not a completely foreign idea, but it has taken some time to remember everything about GitHub. The app uses an API to connect to Schoology, our schools main online platform for teacher-student connection. Students are able to connect with teachers and see assignments on their phone. More features are outlined and will hopefully be implemented soon!
+This was the fourh and fifth step of my learning, implementing ideas I know and researching things I do not know. Additionally, this project took place in a team atmosphere, delegating tasks across the board to everyone. I had a couple different roles in the development and advertising of our app. It started with the overall outline of our app, deciding different features to include and not to include. Next, I helped develop a foundation for our app, adding different screens and a menu bar to switch between different pages, like instagram. I also played a big role in the graffics and images in our app, developing our app icon, finding, modifying, and uploading different icons to be used within the app. Additionally, I bounced around helping different members of our group with their work. Helping find and resolve bug issues, working a little with the API and helping upload our app to Test Flight. Another big role in this project was the marketing of our app. I was in charge of the whole class twitter, helping promote not just our app. With this came designing and sharing promotion squares, with teh App Icons and a brief description. Uploading those to twitter and helping gain publicity.
 
-4th App: https://github.com/jackgsch/EPHS-app/tree/main
+4th App: https://github.com/connorholm/ephsapp2020
+
+Since then I have been working on learning and using different features within Swift to 
